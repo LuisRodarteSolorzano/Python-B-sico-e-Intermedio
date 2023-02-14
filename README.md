@@ -1,4 +1,4 @@
-# Python Basico e Intermedio
+# Python Básico e Intermedio
 
 Este repositorio contiene un conglomerado de Ejercicios en Python Nivel Básico y Nivel Intermedio
 
